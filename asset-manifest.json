@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.45154457.chunk.css",
+    "main.js": "/site/static/js/main.94189ced.chunk.js",
+    "main.js.map": "/site/static/js/main.94189ced.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.f03b06b0.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.f03b06b0.js.map",
+    "static/js/2.fe639fe5.chunk.js": "/site/static/js/2.fe639fe5.chunk.js",
+    "static/js/2.fe639fe5.chunk.js.map": "/site/static/js/2.fe639fe5.chunk.js.map",
+    "index.html": "/site/index.html",
+    "precache-manifest.b0fbb0a3b4a4ca730cc2126ee84d6cc1.js": "/site/precache-manifest.b0fbb0a3b4a4ca730cc2126ee84d6cc1.js",
+    "service-worker.js": "/site/service-worker.js",
+    "static/css/main.45154457.chunk.css.map": "/site/static/css/main.45154457.chunk.css.map",
+    "static/js/2.fe639fe5.chunk.js.LICENSE": "/site/static/js/2.fe639fe5.chunk.js.LICENSE",
+    "static/media/santa2.png": "/site/static/media/santa2.1b5029d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f03b06b0.js",
+    "static/js/2.fe639fe5.chunk.js",
+    "static/css/main.45154457.chunk.css",
+    "static/js/main.94189ced.chunk.js"
+  ]
+}
